@@ -1,10 +1,10 @@
-# Notcoin-Clone
+# Hamster Kombat Clone
 
-This repository contains the initial setup and the final version of the Notcoin clone project, including the basic project structure, necessary images, and icons.
+This repository contains the initial setup and the final version of the Hamster Kombat clone project, including the basic project structure, necessary images, and icons.
 
 ## Overview
 
-This project is a clone of the popular Telegram mini app, Notcoin. The repository provides two branches:
+This project is a clone of the popular Telegram mini app, Hamster Kombat. The repository provides two branches:
 
 1. **Initial Setup**: Provides the foundational structure and assets needed to build the full application.
 2. **Final Version**: The completed application with all functionalities.
@@ -18,8 +18,8 @@ To get started with either the initial setup or the final version, follow these 
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone.git
-    cd Notcoin-Telegram-Mini-App-Clone
+    git clone https://github.com/nikandr-surkov/Hamster-Kombat-Telegram-Mini-App-Clone.git
+    cd Hamster-Kombat-Telegram-Mini-App-Clone
     ```
 
 ### Initial Setup
